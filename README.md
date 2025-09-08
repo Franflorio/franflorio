@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hola, soy Francisco
 
-<!--
-**Franflorio/franflorio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante avanzado de **Ingeniería en Informática** en la **Universidad Nacional de Mar del Plata**
 
-Here are some ideas to get you started:
+## 🚀 Intereses
+- **Ciberseguridad**  
+- **Inteligencia Artificial** y su integración con Web3  
+- **Desarrollo de aplicaciones en la nube**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Objetivo
+🌱 Aprender y crecer como desarrollador.
+
+- 🔭 Actualmente aprendiendo sobre aplicaciones descentralizadas en el curso *Ethereum Developer* de ETH KIPU
